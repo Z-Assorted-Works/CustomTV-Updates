@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "source": "TVmaze",
+  "sourceUrl": "https://www.tvmaze.com/shows?Show%5Bsort%5D=7",
+  "apiDocumentation": "https://www.tvmaze.com/api",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "TVmaze",
+  "changes": "Selected highest-rated shows with at least 100 votes from the first four highest-rating result pages; retained title, rating, vote count, poster and source links. No streaming availability is asserted.",
+  "minimumVotes": 100,
+  "inspectedResults": 100,
+  "retrievedAt": "2026-10-29T10:52:07.5162336Z",
+  "shows": [
+    {
+      "id": 169,
+      "title": "Breaking Bad",
+      "rating": 9.2,
+      "votes": 685,
+      "sourceUrl": "https://www.tvmaze.com/shows/169/breaking-bad",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253519.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/169"
+    },
+    {
+      "id": 180,
+      "title": "Firefly",
+      "rating": 9,
+      "votes": 434,
+      "sourceUrl": "https://www.tvmaze.com/shows/180/firefly",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2600.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/180"
+    },
+    {
+      "id": 465,
+      "title": "Band of Brothers",
+      "rating": 9,
+      "votes": 302,
+      "sourceUrl": "https://www.tvmaze.com/shows/465/band-of-brothers",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/80/201679.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/465"
+    },
+    {
+      "id": 82,
+      "title": "Game of Thrones",
+      "rating": 8.9,
+      "votes": 1223,
+      "sourceUrl": "https://www.tvmaze.com/shows/82/game-of-thrones",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1245274.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/82"
+    },
+    {
+      "id": 335,
+      "title": "Sherlock",
+      "rating": 8.9,
+      "votes": 615,
+      "sourceUrl": "https://www.tvmaze.com/shows/335/sherlock",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/171/428042.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/335"
+    },
+    {
+      "id": 30770,
+      "title": "Chernobyl",
+      "rating": 8.9,
+      "votes": 451,
+      "sourceUrl": "https://www.tvmaze.com/shows/30770/chernobyl",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/193/482599.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/30770"
+    },
+    {
+      "id": 179,
+      "title": "The Wire",
+      "rating": 8.9,
+      "votes": 238,
+      "sourceUrl": "https://www.tvmaze.com/shows/179/the-wire",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1260189.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/179"
+    },
+    {
+      "id": 919,
+      "title": "Attack on Titan",
+      "rating": 8.9,
+      "votes": 214,
+      "sourceUrl": "https://www.tvmaze.com/shows/919/attack-on-titan",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/632/1582290.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/919"
+    },
+    {
+      "id": 2,
+      "title": "Person of Interest",
+      "rating": 8.8,
+      "votes": 455,
+      "sourceUrl": "https://www.tvmaze.com/shows/2/person-of-interest",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/163/407679.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/2"
+    },
+    {
+      "id": 204,
+      "title": "Stargate SG·1",
+      "rating": 8.8,
+      "votes": 335,
+      "sourceUrl": "https://www.tvmaze.com/shows/204/stargate-sg1",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3027.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/204"
+    },
+    {
+      "id": 206,
+      "title": "Stargate Atlantis",
+      "rating": 8.8,
+      "votes": 235,
+      "sourceUrl": "https://www.tvmaze.com/shows/206/stargate-atlantis",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/498/1245482.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/206"
+    },
+    {
+      "id": 527,
+      "title": "The Sopranos",
+      "rating": 8.8,
+      "votes": 209,
+      "sourceUrl": "https://www.tvmaze.com/shows/527/the-sopranos",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11341.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/527"
+    },
+    {
+      "id": 555,
+      "title": "Avatar: The Last Airbender",
+      "rating": 8.8,
+      "votes": 190,
+      "sourceUrl": "https://www.tvmaze.com/shows/555/avatar-the-last-airbender",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/79/199224.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/555"
+    },
+    {
+      "id": 40,
+      "title": "Death Note",
+      "rating": 8.8,
+      "votes": 119,
+      "sourceUrl": "https://www.tvmaze.com/shows/40/death-note",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/499/1249019.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/40"
+    },
+    {
+      "id": 396,
+      "title": "Gravity Falls",
+      "rating": 8.8,
+      "votes": 106,
+      "sourceUrl": "https://www.tvmaze.com/shows/396/gravity-falls",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6140.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/396"
+    },
+    {
+      "id": 1825,
+      "title": "The Expanse",
+      "rating": 8.7,
+      "votes": 672,
+      "sourceUrl": "https://www.tvmaze.com/shows/1825/the-expanse",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/445/1114081.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/1825"
+    },
+    {
+      "id": 216,
+      "title": "Rick and Morty",
+      "rating": 8.7,
+      "votes": 410,
+      "sourceUrl": "https://www.tvmaze.com/shows/216/rick-and-morty",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/626/1566363.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/216"
+    },
+    {
+      "id": 118,
+      "title": "House",
+      "rating": 8.7,
+      "votes": 378,
+      "sourceUrl": "https://www.tvmaze.com/shows/118/house",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/357/894990.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/118"
+    },
+    {
+      "id": 166,
+      "title": "Battlestar Galactica",
+      "rating": 8.7,
+      "votes": 304,
+      "sourceUrl": "https://www.tvmaze.com/shows/166/battlestar-galactica",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2313.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/166"
+    },
+    {
+      "id": 491,
+      "title": "Star Trek: The Next Generation",
+      "rating": 8.7,
+      "votes": 215,
+      "sourceUrl": "https://www.tvmaze.com/shows/491/star-trek-the-next-generation",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/496/1242352.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/491"
+    },
+    {
+      "id": 53327,
+      "title": "1883",
+      "rating": 8.7,
+      "votes": 200,
+      "sourceUrl": "https://www.tvmaze.com/shows/53327/1883",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/486/1215657.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/53327"
+    },
+    {
+      "id": 106,
+      "title": "Justified",
+      "rating": 8.7,
+      "votes": 196,
+      "sourceUrl": "https://www.tvmaze.com/shows/106/justified",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/0/808.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/106"
+    },
+    {
+      "id": 1505,
+      "title": "One Piece",
+      "rating": 8.7,
+      "votes": 187,
+      "sourceUrl": "https://www.tvmaze.com/shows/1505/one-piece",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262497.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/1505"
+    },
+    {
+      "id": 539,
+      "title": "The IT Crowd",
+      "rating": 8.7,
+      "votes": 173,
+      "sourceUrl": "https://www.tvmaze.com/shows/539/the-it-crowd",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11405.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/539"
+    },
+    {
+      "id": 251,
+      "title": "Downton Abbey",
+      "rating": 8.7,
+      "votes": 163,
+      "sourceUrl": "https://www.tvmaze.com/shows/251/downton-abbey",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4601.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/251"
+    },
+    {
+      "id": 565,
+      "title": "Deadwood",
+      "rating": 8.7,
+      "votes": 149,
+      "sourceUrl": "https://www.tvmaze.com/shows/565/deadwood",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11724.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/565"
+    },
+    {
+      "id": 748,
+      "title": "Oz",
+      "rating": 8.7,
+      "votes": 135,
+      "sourceUrl": "https://www.tvmaze.com/shows/748/oz",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15172.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/748"
+    },
+    {
+      "id": 29,
+      "title": "Vikings",
+      "rating": 8.6,
+      "votes": 538,
+      "sourceUrl": "https://www.tvmaze.com/shows/29/vikings",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/286/715906.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/29"
+    },
+    {
+      "id": 618,
+      "title": "Better Call Saul",
+      "rating": 8.6,
+      "votes": 479,
+      "sourceUrl": "https://www.tvmaze.com/shows/618/better-call-saul",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253515.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/618"
+    },
+    {
+      "id": 158,
+      "title": "Fringe",
+      "rating": 8.6,
+      "votes": 428,
+      "sourceUrl": "https://www.tvmaze.com/shows/158/fringe",
+      "posterUrl": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2245.jpg",
+      "apiUrl": "https://api.tvmaze.com/shows/158"
+    }
+  ]
+}
